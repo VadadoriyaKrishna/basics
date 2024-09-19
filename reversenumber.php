@@ -1,6 +1,7 @@
 <?php
 // reverse number.
 
+
 $number = 1234;
 echo "reverse number is :".strrev($number);
 
